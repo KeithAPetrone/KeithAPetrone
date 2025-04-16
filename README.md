@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeithAPetrone
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Python
 - 📫 Reach me at keithpetrone@outlook.com
 
 <!---
